@@ -1,4 +1,4 @@
-BlueZ-support-for-Broadcom
+Linux Bluetooth support forBroadcom
 ==========================
 
-BlueZ changes needed to support Broadcom Bluetooth chips
+Flash tools needed to support Broadcom Bluetooth chips under Linux.  USB flasher support requires Blue-Z.
