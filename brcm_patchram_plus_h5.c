@@ -110,6 +110,8 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 
+#include <unistd.h>
+
 #include <stdlib.h>
 
 #ifdef ANDROID
@@ -936,7 +938,7 @@ proc_slip_config()
 }
 
 
-slip_read()
+void slip_read(void)
 {
 	int count;
 
