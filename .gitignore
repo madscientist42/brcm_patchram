@@ -1,6 +1,7 @@
 .cproject
 .project
 .settings
+Makefile
 CMakeFiles
 CMakeCache.txt
 cmake_install.cmake
