@@ -1,0 +1,7 @@
+.cproject
+.project
+.settings
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+deploy
